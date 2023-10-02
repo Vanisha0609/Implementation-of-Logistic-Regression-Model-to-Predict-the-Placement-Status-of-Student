@@ -77,7 +77,7 @@ classification_report1=classification_report(y_test,y_pred)
 print(classification_report1)
 
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
-
+```
 ## Output:
 1.Placement Data
 
